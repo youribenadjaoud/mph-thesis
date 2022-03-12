@@ -13,6 +13,7 @@ seaborn = "^0.11.2"
 black = "^22.1.0"
 isort = "^5.10.1"
 jupyterlab = "^3.3.1"
+scipy = { version = "^2.2", python = ">=3.9,<3.11"}
 
 [tool.poetry.dev-dependencies]
 
