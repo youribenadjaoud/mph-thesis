@@ -17,6 +17,9 @@ scipy = { version = "^1.8.0", python = ">=3.9,<3.11"}
 notebook = "^6.4.10"
 statsmodels = "^0.13.2"
 sklearn = "^0.0"
+zentables = "^0.2.4"
+geopandas = "^0.12.1"
+tableone = "^0.7.12"
 
 [tool.poetry.dev-dependencies]
 
