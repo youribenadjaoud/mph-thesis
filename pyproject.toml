@@ -20,6 +20,8 @@ sklearn = "^0.0"
 zentables = "^0.2.4"
 geopandas = "^0.12.1"
 tableone = "^0.7.12"
+Rtree = "^1.0.1"
+descartes = "^1.1.0"
 
 [tool.poetry.dev-dependencies]
 
